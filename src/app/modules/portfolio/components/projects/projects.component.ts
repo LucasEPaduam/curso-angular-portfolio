@@ -38,6 +38,62 @@ export class ProjectsComponent {
         }
     ]
     },
+    {
+      src: 'assets/img/Foto_Lucas_Perfil.jpg',
+      alt: '',
+      title: "Fullstack",
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+            name: 'Conheça',
+            href: '',
+        }
+    ]
+    },
+    {
+      src: 'assets/img/Foto_Lucas_Perfil.jpg',
+      alt: '',
+      title: "Fullstack",
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+            name: 'Conheça',
+            href: '',
+        }
+    ]
+    },
+    {
+      src: 'assets/img/Foto_Lucas_Perfil.jpg',
+      alt: '',
+      title: "Fullstack",
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+            name: 'Conheça',
+            href: '',
+        }
+    ]
+    },
+    {
+      src: 'assets/img/Foto_Lucas_Perfil.jpg',
+      alt: '',
+      title: "Fullstack",
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+            name: 'Conheça',
+            href: '',
+        }
+    ]
+    },
   ]);
 
 }
