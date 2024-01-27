@@ -17,86 +17,16 @@ export class ProjectsComponent {
 
   public arrayProjects = signal<IProjects[]>([
     {
-      src: 'assets/img/projects/vfull.png',
+      src: 'assets/img/projects/GitHub.png',
       alt: '',
-      title: "Fullstack",
+      title: "Portfolio Lucas Paduam",
       width: '100px',
-      height: '51px',
-      description: 'PAPAPAPAPAPAPAPAPAPAPPAPAPAPAPAPAPAPAPPAP',
+      height: '100px',
+      description: 'Tenho em meu repertório projetos realizados em linguagem C, C#, Java, JavaScript, TypeScript e HTML5/CSS3. Banco de dados MySQL e MongoDB. FrameWorks React e Spring e ferramentas como Node.js, PostMan, Heroku, Netlify, Twilio, Yarn, NPM, Maven e Git.',
       links: [
         {
-            name: 'Conheça',
-            href: '',
-        }
-    ]
-    },
-    {
-      src: 'assets/img/Foto_Lucas_Perfil.jpg',
-      alt: '',
-      title: "Fullstack",
-      width: '100px',
-      height: '51px',
-      description: 'PAPAPAPAPAPAPAPAPAPAPPAPAPAPAPAPAPAPAPPAP',
-      links: [
-        {
-            name: 'Conheça',
-            href: '',
-        }
-    ]
-    },
-    {
-      src: 'assets/img/Foto_Lucas_Perfil.jpg',
-      alt: '',
-      title: "Fullstack",
-      width: '100px',
-      height: '51px',
-      description: 'PAPAPAPAPAPAPAPAPAPAPPAPAPAPAPAPAPAPAPPAP',
-      links: [
-        {
-            name: 'Conheça',
-            href: '',
-        }
-    ]
-    },
-    {
-      src: 'assets/img/Foto_Lucas_Perfil.jpg',
-      alt: '',
-      title: "Fullstack",
-      width: '100px',
-      height: '51px',
-      description: '',
-      links: [
-        {
-            name: 'Conheça',
-            href: '',
-        }
-    ]
-    },
-    {
-      src: 'assets/img/Foto_Lucas_Perfil.jpg',
-      alt: '',
-      title: "Fullstack",
-      width: '100px',
-      height: '51px',
-      description: '',
-      links: [
-        {
-            name: 'Conheça',
-            href: '',
-        }
-    ]
-    },
-    {
-      src: 'assets/img/Foto_Lucas_Perfil.jpg',
-      alt: '',
-      title: "Fullstack",
-      width: '100px',
-      height: '51px',
-      description: '',
-      links: [
-        {
-            name: 'Conheça',
-            href: '',
+            name: 'Conheça o meu GitHub',
+            href: 'https://github.com/LucasEPaduam',
         }
     ]
     },
