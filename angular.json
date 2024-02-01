@@ -86,9 +86,11 @@
             ],
             "tsConfig": "tsconfig.spec.json",
             "inlineStyleLanguage": "scss",
-            "assets": [
-              "src/favicon.ico",
-              "src/assets"
+            "assets": [   
+                "assets",
+                "favicon.ico",
+                "404.html"
+                
             ],
             "styles": [
               "@angular/material/prebuilt-themes/indigo-pink.css",
