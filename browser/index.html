@@ -16,19 +16,4 @@
   <body>
     <app-root></app-root>
   <script src="polyfills-RX4V3J3S.js" type="module"></script><script src="main-NTNCXICL.js" type="module"></script></body>
-  <!-- Github Pages hack to allow SPA refresh without receiving 404. -->
-  <script>
-    (function () {
-      // Retrieve the URL the user was trying to access when receiving the 404.
-      var redirect = sessionStorage.redirect;
-      // Remove the URL from sessionStorage.
-      delete sessionStorage.redirect;
-      // Check if we actually need to redirect.
-      if (redirect && redirect != location.href) {
-        // We need to redirect to the URL the user was trying to access.
-        history.replaceState(null, null, redirect);
-      }
-    })();
-  </script>
-<!-- /Github Pages hack. -->
 </html>
