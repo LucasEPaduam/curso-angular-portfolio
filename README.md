@@ -11,4 +11,4 @@ Apresenta um portfolio simples com contatos, experiências e projetos do github.
 
 ## Preview
 
-<img src="https://github.com/LucasEPaduam/curso-angular-portfolio/blob/master/src/assets/img/Screenshot%202024-04-22%20212350.png?raw=true">
+[<img src="https://github.com/LucasEPaduam/curso-angular-portfolio/blob/master/src/assets/img/Screenshot%202024-04-22%20212350.png?raw=true">](https://lucasepaduam.github.io/curso-angular-portfolio/)
